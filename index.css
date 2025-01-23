@@ -1,0 +1,21 @@
+.logo{
+    width: 100px;
+    line-height: 200px;
+    background-color: aquamarine;
+    border: 10px;
+    border-color: black;
+    text-align: center;
+}
+.nav{
+    width: 100px;
+    line-height: 200px;
+    background-color: aquamarine;
+    border: 10px;
+    border-color: black;
+    text-align: center;
+}
+#2{
+    width: 500px;
+    height: 20px;
+    background-color: aqua;
+}
